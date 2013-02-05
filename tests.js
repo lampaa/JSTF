@@ -1,4 +1,4 @@
-function RunTest(a,b,c){var d=console;d.time(c);for(var i=0;i<b;i++){a(i)}d.timeEnd(c)}
+function RunTest(a,b,c){console.time(c);for(var i=0;i<b;i++){a(i)}console.timeEnd(c)}
 
 
 /**
