@@ -3,6 +3,8 @@
 
 <hr>
 
+(JavaScript Test Function)
+<br>
 Основан на циклах. Всё очень просто:
 
 ```js
